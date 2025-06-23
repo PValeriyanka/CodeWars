@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CodeWars
 {
@@ -6,7 +7,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Kata_180625.High("aaa b"));
+            Console.WriteLine(Kata_230625.Extract(new[] { 1, 2, 3 }));
         }
     }
 }

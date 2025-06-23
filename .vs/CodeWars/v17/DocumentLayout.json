@@ -1,33 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Studing\\MODSEN\\CW\\CodeWars\\",
+  "WorkspaceRootPath": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|d:\\studing\\modsen\\cw\\codewars\\codewars\\kata_180625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_180625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\codewars\\kata_190625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_190625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|d:\\studing\\modsen\\cw\\codewars\\codewars\\trainkata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\trainkata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\codewars\\kata_200625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_200625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|d:\\studing\\modsen\\cw\\codewars\\codewars\\kata_170625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|d:\\studing\\modsen\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\codewars\\codewars\\kata_170625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_170625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|d:\\studing\\modsen\\cw\\codewars\\codewars\\kata_160625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\codewars\\kata_180625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_180625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|d:\\studing\\modsen\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\codewars\\codewars\\kata_230625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_230625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\codewars\\trainkata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\trainkata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\codewars\\kata_160625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_160625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|d:\\studing\\modsen\\cw\\codewars\\codewars\\kata_130625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\codewars\\kata_130625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_130625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|d:\\studing\\modsen\\cw\\codewars\\codewars\\kata_120625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\codewars\\kata_120625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_120625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|d:\\studing\\modsen\\cw\\codewars\\codewars\\kata_110625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\codewars\\kata_110625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4D793A-174C-48B5-B06C-0252A2F6795C}|CodeWars\\CodeWars.csproj|solutionrelative:codewars\\kata_110625.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -37,117 +49,151 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 423,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 252,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kata_190625.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_190625.cs",
+              "RelativeDocumentMoniker": "CodeWars\\Kata_190625.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_190625.cs",
+              "RelativeToolTip": "CodeWars\\Kata_190625.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:24:50.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kata_170625.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_170625.cs",
+              "RelativeDocumentMoniker": "CodeWars\\Kata_170625.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_170625.cs",
+              "RelativeToolTip": "CodeWars\\Kata_170625.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:25:18.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kata_200625.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_200625.cs",
+              "RelativeDocumentMoniker": "CodeWars\\Kata_200625.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_200625.cs",
+              "RelativeToolTip": "CodeWars\\Kata_200625.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:52:42.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kata_180625.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_180625.cs",
+              "RelativeDocumentMoniker": "CodeWars\\Kata_180625.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_180625.cs",
+              "RelativeToolTip": "CodeWars\\Kata_180625.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:42:15.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kata_230625.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_230625.cs",
+              "RelativeDocumentMoniker": "CodeWars\\Kata_230625.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_230625.cs",
+              "RelativeToolTip": "CodeWars\\Kata_230625.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:25:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainKata.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\TrainKata.cs",
+              "RelativeDocumentMoniker": "CodeWars\\TrainKata.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\TrainKata.cs",
+              "RelativeToolTip": "CodeWars\\TrainKata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:48:26.156Z"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TrainKata.cs",
-              "DocumentMoniker": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\TrainKata.cs",
-              "RelativeDocumentMoniker": "CodeWars\\TrainKata.cs",
-              "ToolTip": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\TrainKata.cs",
-              "RelativeToolTip": "CodeWars\\TrainKata.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:48:26.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Kata_180625.cs",
-              "DocumentMoniker": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_180625.cs",
-              "RelativeDocumentMoniker": "CodeWars\\Kata_180625.cs",
-              "ToolTip": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_180625.cs",
-              "RelativeToolTip": "CodeWars\\Kata_180625.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:42:15.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Kata_160625.cs",
-              "DocumentMoniker": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_160625.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_160625.cs",
               "RelativeDocumentMoniker": "CodeWars\\Kata_160625.cs",
-              "ToolTip": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_160625.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_160625.cs",
               "RelativeToolTip": "CodeWars\\Kata_160625.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:36:57.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T13:36:57.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Kata_130625.cs",
-              "DocumentMoniker": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_130625.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_130625.cs",
               "RelativeDocumentMoniker": "CodeWars\\Kata_130625.cs",
-              "ToolTip": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_130625.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_130625.cs",
               "RelativeToolTip": "CodeWars\\Kata_130625.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:35:41.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T13:35:41.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Kata_120625.cs",
-              "DocumentMoniker": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_120625.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_120625.cs",
               "RelativeDocumentMoniker": "CodeWars\\Kata_120625.cs",
-              "ToolTip": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_120625.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_120625.cs",
               "RelativeToolTip": "CodeWars\\Kata_120625.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAEYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:34:28.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T13:34:28.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Kata_110625.cs",
-              "DocumentMoniker": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_110625.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_110625.cs",
               "RelativeDocumentMoniker": "CodeWars\\Kata_110625.cs",
-              "ToolTip": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_110625.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\CodeWars\\CodeWars\\Kata_110625.cs",
               "RelativeToolTip": "CodeWars\\Kata_110625.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:32:46.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T13:32:46.328Z"
             }
           ]
         },
         {
-          "DockedHeight": 18,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 189,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Kata_170625.cs",
-              "DocumentMoniker": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_170625.cs",
-              "RelativeDocumentMoniker": "CodeWars\\Kata_170625.cs",
-              "ToolTip": "D:\\Studing\\MODSEN\\CW\\CodeWars\\CodeWars\\Kata_170625.cs",
-              "RelativeToolTip": "CodeWars\\Kata_170625.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T14:02:21.49Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Bookmark",
@@ -156,10 +202,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

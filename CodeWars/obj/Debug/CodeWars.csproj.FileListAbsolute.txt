@@ -6,3 +6,11 @@ D:\Studing\MODSEN\CW\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.CoreCompileInpu
 D:\Studing\MODSEN\CW\CodeWars\CodeWars\obj\Debug\CodeWars.exe
 D:\Studing\MODSEN\CW\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
 D:\Studing\MODSEN\CW\CodeWars\CodeWars\obj\Debug\CodeWars.exe.config
+D:\Studing\MODSEN\Практика\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+D:\Studing\MODSEN\Практика\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+D:\Studing\MODSEN\Практика\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+D:\Studing\MODSEN\Практика\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.AssemblyReference.cache
+D:\Studing\MODSEN\Практика\CodeWars\CodeWars\obj\Debug\CodeWars.exe.config
+D:\Studing\MODSEN\Практика\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.CoreCompileInputs.cache
+D:\Studing\MODSEN\Практика\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+D:\Studing\MODSEN\Практика\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
