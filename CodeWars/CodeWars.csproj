@@ -50,6 +50,11 @@
     <Compile Include="Kata_170625.cs" />
     <Compile Include="Kata_180625.cs" />
     <Compile Include="Kata_190625.cs" />
+    <Compile Include="Kata_270625.cs" />
+    <Compile Include="Kata_300625.cs" />
+    <Compile Include="Kata_260625.cs" />
+    <Compile Include="Kata_250625.cs" />
+    <Compile Include="Kata_240625.cs" />
     <Compile Include="Kata_230625.cs" />
     <Compile Include="Kata_200625.cs" />
     <Compile Include="TrainKata.cs" />
